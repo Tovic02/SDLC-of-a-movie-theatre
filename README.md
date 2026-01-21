@@ -24,7 +24,7 @@ The system uses a modular, Object-Oriented approach. The following **Nomenclatur
 ---
 
 ## 3. SDLC Phase 3: Implementation
-./movie.py
+/movie.py
 
 ## 4. SDLC Phase 4: Testing
 
